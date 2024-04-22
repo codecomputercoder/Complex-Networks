@@ -1,0 +1,9 @@
+1. requirement.txt file given for dependencies
+
+install all the dependencies to run the codes
+
+2. all the output with the codes are also given in pdf format
+
+
+Saikat Moi
+Roll - 20CS10050

@@ -1,0 +1,14 @@
+ 1.For all parts of this problem For all the nodes which has outdegree 0 , 
+ considering it has edges to all the nodes from which it has incoming edges 
+ and accordingly creating the adjacency matrix for this problem.
+
+ 2.If did not find any valid path between two nodes, 
+   assuming a very large value (10^9) as the shortest distance.
+
+ 3. considering values rounded upto 12 decimal places 
+
+
+ 4. requirement.txt file given for dependencies
+
+
+ 5. the jupiter file with outputs is saved as a pdf in codeinpdf.pdf
